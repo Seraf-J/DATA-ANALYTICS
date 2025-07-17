@@ -1,7 +1,9 @@
 h1{
     color: black;
-    padding-left: 20px;
-    padding-right: 20px;
+    margin: 20px;
+    text-align: center;
+    background-color: darkred;
+    padding: 20px;
 }
 
 body{
@@ -9,21 +11,33 @@ body{
 }
 
 p{
-    padding-left: 20px;
-    padding-right: 20px;
+    margin: 20px;
 }
 
 img{
-    padding: 20px;
+    margin: 20px;
 }
 
 nav{
-    padding: 20px;
+    margin: 20px;
 }
 
 h2{
-    padding-left: 20px;
-    padding-right: 20px;
+    margin: 20px;
+}
+
+footer{
+    background-color: grey;
+    padding: 20px;
+}
+
+a{
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: brown;
+    color: black;
+    border-radius: 5px;
+    text-decoration: none;
 }
 
 
